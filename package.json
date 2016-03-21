@@ -6,7 +6,7 @@
     "dependencies": {
         "log4js":"0.6.26",
         "nconf":"0.7.1",
-        "aws-sdk":"*"
+        "aws-sdk":"2.2.45"
     },
     "license": "Apache-2.0"
 }
