@@ -1,0 +1,6 @@
+{
+    "token":{
+        "access_key":"your aws access key",
+        "access_secret":"your aws access key secret"
+    }
+}
