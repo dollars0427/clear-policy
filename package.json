@@ -1,6 +1,6 @@
 {
     "name": "clear-policy",
-    "description": "Clear AWS IAM policy batch.",
+    "description": "Clear batch AWS IAM policy.",
     "version": "0.0.1",
     "author": "Sardo Ip<sardo.ip@sardo.work>",
     "dependencies": {
